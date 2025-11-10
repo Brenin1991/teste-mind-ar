@@ -1,0 +1,12 @@
+{
+    "metadados": {
+        "marca": "CQT",
+        "codigo": "ARCO"
+    },
+    "configuracoes": {
+        "usarAFrame": true,
+        "usarVideo": true,
+        "usarFaceTracking": false,
+        "cameraFacing": "user"
+    }
+}
