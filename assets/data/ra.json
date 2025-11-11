@@ -8,7 +8,7 @@
         "usarVideo": true,
         "usarFaceTracking": false,
         "cameraFacing": "environment",
-        "cameraMirror": false,
+        "cameraMirror": true,
         "debugVisual": true
     }
 }
